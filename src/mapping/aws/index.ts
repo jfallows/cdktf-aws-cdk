@@ -4,6 +4,7 @@
  */
 
 import "./ec2-vpc";
+import "./ec2-enclave-certificate-iam-role-association";
 
 import "./events-role";
 
